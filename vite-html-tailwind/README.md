@@ -1,4 +1,4 @@
-
+![vite+html+tw](https://github.com/glebgorokhov/breezify-examples/assets/24701608/2cc7360a-c5cf-4b56-957e-48ec74d4ea83)
 
 # Breezify + Vite + HTML + Tailwind   
 
