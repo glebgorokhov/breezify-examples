@@ -1,1 +1,7 @@
-This repo contains examples of Breezify's set ups and usage for different frameworks.
+# Breezify Examples
+
+This repo contains Breezify setups and usage examples for different frameworks.
+
+## Examples
+
+- [Vite + HTML + Tailwind](https://github.com/glebgorokhov/breezify-examples/tree/main/vite-html-tailwind)
